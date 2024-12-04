@@ -1,10 +1,10 @@
 ### Hi there!👋 I'm Harshitha
-🔭 Pursuing Master's in Computer Science at Iowa State University, United States
-🔍Actively researching continuous authentication methods for XR systems, focusing on enhancing security and user experience in immersive       environments.
-🌟What I bring:
-  - Full-stack expertise with the MERN(MongoDB, Express.js, React.js, Node.js) stack, crafting responsive and interactive web applications.
-  - Strong DevOps foundation from EPAM Systems, proficient in AWS, Docker, and Jenkins, with hands-on experience in automating and optimizing. 
-🤝 Seeking to collaborate on impactful open-source projects by leveraging expertise in MERN stack, DevOps, and cloud technologies.
+🔭 Pursuing Master's in Computer Science at Iowa State University, United States<br/>
+🔍Actively researching continuous authentication methods for XR systems, focusing on enhancing security and user experience in immersive       environments.<br/>
+🌟What I bring:<br/>
+  - Full-stack expertise with the MERN(MongoDB, Express.js, React.js, Node.js) stack, crafting responsive and interactive web applications.<br/>
+  - Strong DevOps foundation from EPAM Systems, proficient in AWS, Docker, and Jenkins, with hands-on experience in automating and optimizing.<br/> 
+🤝 Seeking to collaborate on impactful open-source projects by leveraging expertise in MERN stack, DevOps, and cloud technologies.<br/>
 
 📫 How to reach me:
   🌐 [LinkedIn](https://www.linkedin.com/in/harshithasivalingala/)
