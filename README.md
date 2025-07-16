@@ -10,6 +10,7 @@
 <br/>
 📫 How to reach me:<br/>
   🌐 [LinkedIn](https://www.linkedin.com/in/harshithasivalingala/)<br/>
+  💼 [Portfolio](https://harshithasivalingala.netlify.app/)<br/>
   ✉️ harshithasivalingala22@gmail.com
 
 *"I believe in building technology that simplifies life and inspires creativity."*
