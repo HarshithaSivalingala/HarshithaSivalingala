@@ -4,8 +4,8 @@
 🔍Actively researching continuous authentication methods for XR systems, focusing on enhancing security and UX in immersive environments.<br/>
 <br/>
 🌟What I bring:<br/>
-    -Full-stack expertise with the MERN(MongoDB, Express.js, React.js, Node.js) stack, crafting interactive web applications.<br/>
-    -Strong DevOps foundation with skills in AWS, Docker, and Jenkins, specializing in automation and optimization.<br/>
+    👉Full-stack expertise with the MERN(MongoDB, Express.js, React.js, Node.js) stack, crafting interactive web applications.<br/>
+    👉Strong DevOps foundation with skills in AWS, Docker, and Jenkins, specializing in automation and optimization.<br/>
 🤝 Seeking to collaborate on impactful open-source projects by leveraging expertise in MERN stack, DevOps, and cloud technologies.<br/>
 <br/>
 📫 How to reach me:<br/>
