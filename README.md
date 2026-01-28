@@ -125,19 +125,12 @@ I enjoy working at the intersection of **engineering, AI, and UX** — where sys
 
 ---
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshithasivalingala&theme=radical&no-frame=true&margin-w=15" />
-
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshithasivalingala&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=harshithasivalingala&theme=radical&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasivalingala&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
