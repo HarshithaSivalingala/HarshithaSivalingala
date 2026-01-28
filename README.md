@@ -127,9 +127,8 @@ I enjoy working at the intersection of **engineering, AI, and UX** — where sys
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshithasivalingala&theme=radical&no-frame=true&title=Commit,Repositories,Stars,PullRequest,Issues&margin-w=20" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=harshithasivalingala&theme=radical&no-frame=true&margin-w=15" />
+
 
 
 ---
