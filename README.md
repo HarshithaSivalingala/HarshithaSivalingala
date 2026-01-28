@@ -124,19 +124,10 @@ I enjoy working at the intersection of **engineering, AI, and UX** — where sys
 - 🎓 First Class with Distinction — GPA 3.77 / 4.0
 
 ---
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-siva-md9tyk7eb.vercel.app/?username=harshithasivalingala&theme=radical&no-frame=true&margin-w=15" />
-</p>
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=harshithasivalingala&theme=radical&hide_border=true)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasivalingala&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
