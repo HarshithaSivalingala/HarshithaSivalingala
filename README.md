@@ -103,3 +103,8 @@ I'm currently a Computer Science graduate student. I have been fortunate to help
 *If you are building something ambitious or slightly unreasonable. I Would love to hear about it :)*
 
 </div>
+---
+## 🛠 My Code Playground
+
+- [Multi-Agent AI Collaboration](https://github.com/HarshithaSivalingala/MultiAgent-AI-Collab.git)
+
