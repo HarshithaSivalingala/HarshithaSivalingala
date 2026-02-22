@@ -21,34 +21,27 @@
 
 ## 👨‍💻 What I Do
 
-I build **scalable full-stack applications**, **AI-powered systems**, and **user-centric interfaces** that work reliably in production.  
-Currently a **CS graduate student at Iowa State University**, working as a **software developer and founding engineer**.
+I build full-stack applications and AI-powered systems that are designed to scale and actually work in the real world. I care a lot about writing clean, reliable code and building products that people genuinely enjoy using.
 
-I enjoy working at the intersection of **engineering, AI, and UX** — where system design meets usability.
+I'm currently a Computer Science graduate student. I have been fortunate to help turn early ideas into production-ready systems thinking through both the technical architecture and the user experience. I enjoy designing systems that are technically solid under the hood, but simple and intuitive on the surface. For me, the best products are the ones that feel effortless even when the engineering behind them isn't.
 
 ---
 
 ## 🚀 Focus Areas
 
-### 🤖 AI / ML Engineering
-- Building **RAG (Retrieval-Augmented Generation)** systems for context-aware applications
-- **LLM integration** using OpenAI, Claude, and other models for real-world use cases
-- **LLM evaluation & reliability** — testing hallucinations, code correctness, and output quality
-- Training and fine-tuning models with **PyTorch** and **TensorFlow**
-- Designing **prompt engineering strategies** and multi-stage AI workflows
+### 🤖 AI Engineering
+ - Building RAG systems and context-aware AI applications
+ - Integrating and evaluating LLMs for production use (quality, hallucinations, reliability)
+ - Designing multi-stage AI workflows that are explainable and measurable
 
 ### 💻 Full-Stack Development
-- Building **end-to-end web applications** using **React.js, Node.js, Express.js**
-- Designing **RESTful APIs**, backend services, and scalable architectures
-- Working with **real-time features** using WebSockets, Redis, and event-driven systems
-- Developing **React dashboards** for analytics, AI pipelines, and system monitoring
-- Writing clean, maintainable code with strong **OOP principles**
+ - Developing scalable web applications
+ - Designing clean backend architectures and REST APIs
+ - Building real-time systems and analytics dashboards
 
 ### 🎨 UX-Driven Engineering
-- **Certified UX professional** focused on usability and accessibility
-- Translating complex AI and backend systems into **clear, intuitive interfaces**
-- Designing workflows that make AI outputs **explainable and actionable**
-- Bridging the gap between **engineering decisions and user experience**
+ -  UX professional focused on usability and accessibility
+ - Translating complex AI systems into intuitive, actionable interfaces
 
 ---
 
@@ -104,49 +97,9 @@ I enjoy working at the intersection of **engineering, AI, and UX** — where sys
 
 ---
 
-## 🎯 Current Learning & Research
-
-- Advanced **RAG architectures** — hybrid search, reranking, context optimization
-- **LLM evaluation metrics** — hallucination detection and code reliability
-- **Prompt engineering at scale** for production systems
-- **AI agent frameworks** — multi-step reasoning and tool usage
-- **Full-stack system design** with performance and UX in mind
-- Applying **UX design principles** to complex technical products
-
----
-
-## 🏆 Recognition
-
-- 🥇 Ivy Hackathon Finalist — ML-based anti-phishing system with accessible UI
-- 🎨 UX Professional Certification
-- 👥 Former Google Developer Club Technical Lead
-- 🌟 Open-source contributor (15K+ users impacted)
-- 🎓 First Class with Distinction — GPA 3.77 / 4.0
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasivalingala&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-Always happy to talk about **full-stack development, AI/ML systems, UX design**, or building products that actually scale.
-
-📧 **harshithasivalingala22@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/harshithasivalingala/)**  
-📍 **Ames, Iowa**
-
----
-
-<div align="center">
-
-*Full-Stack Engineering • AI/ML Systems • UX-Driven Design • Scalable Architecture*
+*If you are building something ambitious or slightly unreasonable. I Would love to hear about it.*
 
 </div>
