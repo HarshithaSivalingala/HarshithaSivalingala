@@ -45,9 +45,7 @@ I'm currently a Computer Science graduate student. I have been fortunate to help
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🛠️ Tech Stack & Skills
+### 🛠️  Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -98,14 +96,15 @@ I'm currently a Computer Science graduate student. I have been fortunate to help
 ---
 
 
+🛠 My Code Playground
+
+- [Multi-Agent AI Collaboration](https://github.com/HarshithaSivalingala/MultiAgent-AI-Collab.git)
+
+---
+
 <div align="center">
 
 *If you are building something ambitious or slightly unreasonable. I Would love to hear about it :)*
 
 </div>
----
-
-🛠 My Code Playground
-
-- [Multi-Agent AI Collaboration](https://github.com/HarshithaSivalingala/MultiAgent-AI-Collab.git)
 
