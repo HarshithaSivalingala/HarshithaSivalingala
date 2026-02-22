@@ -104,7 +104,8 @@ I'm currently a Computer Science graduate student. I have been fortunate to help
 
 </div>
 ---
-## 🛠 My Code Playground
+
+🛠 My Code Playground
 
 - [Multi-Agent AI Collaboration](https://github.com/HarshithaSivalingala/MultiAgent-AI-Collab.git)
 
