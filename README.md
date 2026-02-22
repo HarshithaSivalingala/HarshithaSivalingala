@@ -100,6 +100,6 @@ I'm currently a Computer Science graduate student. I have been fortunate to help
 
 <div align="center">
 
-*If you are building something ambitious or slightly unreasonable. I Would love to hear about it.*
+*If you are building something ambitious or slightly unreasonable. I Would love to hear about it :)*
 
 </div>
