@@ -26,25 +26,6 @@ I build full-stack applications and AI-powered systems that are designed to scal
 I'm currently a Computer Science graduate student. I have been fortunate to help turn early ideas into production-ready systems thinking through both the technical architecture and the user experience. I enjoy designing systems that are technically solid under the hood, but simple and intuitive on the surface. For me, the best products are the ones that feel effortless even when the engineering behind them isn't.
 
 ---
-
-## 🚀 Focus Areas
-
-### 🤖 AI Engineering
- - Building RAG systems and context-aware AI applications
- - Integrating and evaluating LLMs for production use (quality, hallucinations, reliability)
- - Designing multi-stage AI workflows that are explainable and measurable
-
-### 💻 Full-Stack Development
- - Developing scalable web applications
- - Designing clean backend architectures and REST APIs
- - Building real-time systems and analytics dashboards
-
-### 🎨 UX-Driven Engineering
- -  UX professional focused on usability and accessibility
- - Translating complex AI systems into intuitive, actionable interfaces
-
----
-
 ### 🛠️  Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
